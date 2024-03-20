@@ -9,10 +9,7 @@
   and enthusiastic consumer of any kind of arts.</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
+<hr>
 
 <p align="left">🎯 Check out my portfolio in here<br>
   :love_letter: How to reach me: norapasquale@gmail.com</p>
