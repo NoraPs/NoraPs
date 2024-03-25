@@ -11,7 +11,8 @@
 ###
 <hr>
 <p> My name is Eleonora, I'm 25 and I'm currently living in Bologna, Italy. I have a bachelor's degree in Classical Literature and I recently graduated from a master's degree course in Digital Humanities and Digital Knowledge.</p>
-<p align="left">🎯 Check out my portfolio in here<br>
+<p align="left">🎯 Check out my portfolio in <a href="https://noraps.github.io/NoraPs/">here</a>
+ <br>
   :love_letter: How to reach me: norapasquale@gmail.com</p>
 <p align="left"> ✨ Fun fact about me 
 
