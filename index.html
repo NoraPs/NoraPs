@@ -46,9 +46,9 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto" id="about" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" id="about" href="index.html">About</a></li>
           <li><a class="nav-link "  href="resume.html">Resume</a></li>
-          <li><a class="nav-link  " href="#projects">Projects</a></li>
+          <li><a class="nav-link  " href="projects.html">Projects</a></li>
             </ul>
           </li>
           
@@ -59,9 +59,12 @@
 
   <!-- ======= Hero Section ======= -->
   <section class="hero">
+    
     <div class="container">
       <div class="row align-items-center">
+        
         <div class="col-md-6 d-flex justify-content-center">
+          
           <div class="hero-image text-center">
             <img src="assets/img/io.JPG" alt="Hero Image" class="img-fluid rounded-circle">
           </div>
@@ -88,8 +91,29 @@
 <!-- End Hero Section -->
 
   <main id="main">
-
-   
+    <div class="footer" style="margin-top: 32px; margin-bottom: 32px; height: 92px; display: grid; grid-template-columns: repeat(12, 1fr); column-gap: 16px;">
+      <div class="contact" style="grid-column: 1 / 5; overflow-wrap: break-word; padding: 1.5rem;">
+        <p class="H4 Erode">Contact –</p>
+        <p class="Btext2 Plex">norapasquale@gmail.com</p>
+      </div>
+     
+      <div class="links" style="grid-column: 9 / 13; display: flex; justify-content: flex-end; padding: 1.5rem 0rem 1.5rem 1.5rem;">
+          <div>
+            <a href="https://github.com/ManuSrivastava1" target="_blank" rel="noopener noreferrer">
+            <div class="iconContainer" style="padding: 8px; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center; margin-right: 20px;">
+              <img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>                      </div>
+                    </a>
+                  </div>
+            <div>
+              <a href="www.linkedin.com/in/eleonora-pasquale-0b3156204" target="_blank" rel="noopener noreferrer"><div class="iconContainer" style="padding: 8px; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center;">
+                <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
+                            </div>
+            </a>
+          </div>
+         
+            </div>
+          </div>
+  
    
   </main><!-- End #main -->
 
@@ -109,6 +133,14 @@
   <script>
     document.getElementById("bt1").addEventListener("click", function() {
       window.location.href = "resume.html";
+    });
+
+    document.getElementById("bt2").addEventListener("click", function() {
+      window.location.href = "projects.html";
+    });
+
+    document.getElementById("bt3").addEventListener("click", function() {
+      window.location.href = "about.html";
     });
   </script>
 
