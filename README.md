@@ -13,6 +13,8 @@
 <p> My name is Eleonora, I'm 25 and I'm currently living in Bologna, Italy. I have a bachelor's degree in Classical Literature and I recently graduated from a master's degree course in Digital Humanities and Digital Knowledge.</p>
 <p align="left">🎯 Check out my portfolio in <a href="https://noraps.github.io/NoraPs/">here</a> (WIP)
  <br>
+ 👀 Take a look at my thesis project <a href="https://numgadda.github.io/OpenGadda/index.html">OpenGadda</a> in digital archives and digital storytelling
+ <br>
   :love_letter: How to reach me: norapasquale@gmail.com</p>
  
 
